@@ -99,7 +99,7 @@ body {
 @media (min-width: 768px) {
   /* Navbar positioning foo */
   .navbar-wrapper {
-    /*margin-top: 20px;*/
+    margin-top: 20px;
   }
   .navbar-wrapper .container-fluid {
     padding-right: 0;
@@ -131,4 +131,8 @@ body {
   .featurette-heading {
     /*margin-top: 120px;*/
   }
+}
+
+.container.marketing {
+    margin-top: 80px;
 }
