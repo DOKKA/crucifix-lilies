@@ -10,6 +10,11 @@ body {
   font-family:Arial,sans-serif;
 }
 
+.carousel{
+    margin-bottom: 30px;
+}
+
+
 /* fix bs3 horizontal scrollbar bug */
 .row { margin: 0; padding: 0 }
 
