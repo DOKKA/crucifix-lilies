@@ -14,6 +14,11 @@ body {
     margin-bottom: 30px;
 }
 
+.carousel-caption{
+    /*font-size: 18px;*/
+    text-shadow: 0 1px 2px rgba(0,0,0,1);
+}
+
 
 /* fix bs3 horizontal scrollbar bug */
 .row { margin: 0; padding: 0 }
